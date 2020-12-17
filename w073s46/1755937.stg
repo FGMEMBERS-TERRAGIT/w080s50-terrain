@@ -1,0 +1,4 @@
+OBJECT_BASE 1755937.btg
+OBJECT SCAS.btg
+OBJECT_SHARED Models/Airport/windsock.xml -72.662424 -45.397605 8.5 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -72.678613 -45.399681 6.8 0.00
